@@ -1,4 +1,6 @@
-With the help of a partner, we created a database in MySQL for use in Java-based software where users can choose between available cars and add/remove/update their shopping cart. Users can also preview an image of each vehicle (Bing Image Search API). Functionality also includes comparing cars inside their cart.
+<h2>Embeded Systems (Ready-Set-Time)</h2>
 
-Database Schema:
-<img src="schema.png" />
+I used two Arduinos communicating through I2C to develop a motion-activated timer. Lights/speakers on the device would alert the user when the timer starts/stops.
+
+Pinout/diagram:
+<img src="Project.png" />
